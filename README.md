@@ -1,4 +1,4 @@
-# smallGameWithDom
+# smallGameWithDom || PIG GAME
 Manipulation DOM using Vanilla Javascript
 
 
